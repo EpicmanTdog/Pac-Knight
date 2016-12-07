@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="left-up" width="28" height="36" tilewidth="8" tileheight="8" nextobjectid="1">
+ <tileset firstgid="1" name="pacman" tilewidth="8" tileheight="8">
+  <image source="pactileset.png" width="120" height="24"/>
+ </tileset>
+ <layer name="Legal Space" width="28" height="36">
+  <data encoding="base64" compression="zlib">
+   eJztlEkOwCAMA/lC///Z3hEFDzFbRSQuWbBjWUnpxunxwOeYK3H44kZ61Lm/4c14hE8rov+NxiO+p/m83uJL9qjld8Vz+I/i5bVSzo1X20vFI1r11FSPjtqP4Dn7W/Mr/enon4mn6qXeyR693fdsNV5UK0VzlXvEL/SmjMCjPqT5yD04dW7Gu+GPF2/eFUE=
+  </data>
+ </layer>
+ <layer name="Dead Space" width="28" height="36">
+  <data encoding="base64" compression="zlib">
+   eJztVmtLA0EMTK1arY+2J4IV4az6pfX//z9zcAfTMDlntz7wEZgv2WyGTbJJVma2+seH4dhxUoiZ46zi3qnjxspl6Wgq7t0C38Rx1GNKdKhHvsyG+UO+zscQ44bool6xiTrkax2PPTZEF/WKTdQh31eIkr8sl1nO1Pyx92Oe2nB/ItjH8/fimdV905+p9oN0fE+O5wCs+/iuyIdx29j+P4l+X4z3HPwjLG5ZfU5tv/bVHod8JX0E7Q/lu3BcOq7B/6LXXRXwsb7K4nY/8q4HYt8mvlVR+BSJNYT1if9X4Yv/nflW87d17BK8EvufVp9K/1T42D6h/GulD/zlfWKIF/bAQ+Y79t6xeVQbqyjMT8d3buOxqp3vLOZzx53lscrmtTrfY8zXVjffS/WDZPWJ85rN96w+o726L2VQ6nPs3nfsn2xf+ixk+9Jvwhu2TC/r
+  </data>
+ </layer>
+ <layer name="Pellets" width="28" height="36">
+  <data encoding="base64" compression="zlib">
+   eJztlVEOwCAIQ73C7n/Z/S9MeSsQXGxCsiC11eAY42B3XDAieJaHN2+kxsv7m15FED8rqPtl65G+p/nn+sovOccs31Uvov+oXnR9Bz1vb32pt/jWd1R9Nz363lW96PpKPWWuZMwjeg51HmXoqXfluXOvd6VfZtwqPdqHNK/8D3blVcRBPG4y/BL/
+  </data>
+ </layer>
+</map>
